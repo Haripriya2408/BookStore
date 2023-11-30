@@ -29,7 +29,7 @@ const Home = () => {
 
   return (
     <div className='p-4'>
-   <div className=' text-center text-3xl py-5'> SONA CENTRAL LIBRARY</div>
+   <div className=' text-center text-3xl py-5'> IRAIANBU CENTRAL LIBRARY</div>
       <div className='flex justify-center items-center gap-x-4'>
         <button
           className='bg-sky-300 hover:bg-sky-600 px-6 py-2 text-lg rounded-lg'

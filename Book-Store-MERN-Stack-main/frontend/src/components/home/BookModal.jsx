@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { AiOutlineClose } from 'react-icons/ai';
 import { PiBookOpenTextLight } from 'react-icons/pi';
 import { BiUserCircle } from 'react-icons/bi';
@@ -40,7 +39,7 @@ const BookModal = ({ book, onClose }) => {
         </div>
         <p className='mt-4'>About the Book</p>
         <p className='my-2'>
-         {book.desription}
+         {book.description}
         </p>
       </div>
     </div>
